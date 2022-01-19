@@ -10,7 +10,7 @@ footer{
   }
   
   .jumbotron {
-    background: url(img/cover.png) no-repeat top center;
+    background: url(cover.png) no-repeat top center;
     background-size: contain;
     margin-top: 70px;
     height: 200px;
