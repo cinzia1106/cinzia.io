@@ -18,11 +18,11 @@
   font-weight: bold;
 }
 .card--1 .card__img, .card--1 .card__img--hover {
-    background-image: url('/img/logo-travel.png');
+    background-image: url('img/logo-travel.png');
     background-size: 65%;
 }
 .card--2 .card__img, .card--2 .card__img--hover {
-  background-image: url('/img/logo-i.png');
+  background-image: url('img/logo-i.png');
   background-size: 65%;
 }
 .card--3 .card__img, .card--3 .card__img--hover {
